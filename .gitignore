@@ -50,6 +50,7 @@ typings/
 # Optional npm cache directory
 .npm
 
+temp_auto_push.bat
 # Optional eslint cache
 .eslintcache
 
@@ -101,4 +102,6 @@ dist
 .dynamodb/
 
 # TernJS port file
-.tern-port
+.tern-port.gitignore
+branch_structure.json
+temp_interactive_push.bat
